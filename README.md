@@ -23,4 +23,12 @@
 
 
 ### aulas do bootcamp d a DIO TQI>>>
+- modulo 1 - _conteudo de abertura._
+- modulo 2  - _HTML e css3 (introdução de  criação de website/ menu css3)._
+- modulo 3 - _javascipt (projeto jogo de memoria)._
+- modulo 4 - _reactJV ._
+-  modulo 5 - _SQL._
+-  modulo 6 - _java_
+-  modulo 7 - _spring framworwork._
+-  modulo 8 - _QA_
 #### terminar até dia 27/06 // 
